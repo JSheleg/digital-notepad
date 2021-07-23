@@ -1,18 +1,1 @@
-{
-  "db": [
-    {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
-      "title": "Test 1 Title",
-      "text": "Text of Test 1",
-      "id": "1"
-    },
-    {
-      "title": "Test 1 Title",
-      "text": "Text of Test 1",
-      "id": "2"
-    }
-  ]
-}
+[{"title":"Test Title","text":"Test text"},{"title":"Hello","text":"hi\n","id":"afc4fc0b-c978-4043-b7ae-024ad9490499"}]
