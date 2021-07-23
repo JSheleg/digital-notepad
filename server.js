@@ -20,44 +20,6 @@ app.use(express.static('public'));
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
-// function createNewNote(body, notesArray) {
-//     const note = body;
-//     notesArray.push(note);
-    
-//     fs.writeFileSync(
-//         path.join(__dirname, './db/db.json'),
-//         JSON.stringify({db:notesArray},null,2)
-//     );
-//     return note;
-// }
-
-// function validateNote(note) {
-//     if(!note.title || typeof note.title !== 'string'){
-//         return false;
-//     }
-//     if(!note.text){
-//         return false;
-//     }
-//     return true;
-// }
-
-
-// app.get('/api/db', (req,res) => {
-//     // res.send("hello world");
-//     // console.log(req.body)
-//     res.json(notes);
-// });
-
-// app.post('/api/db', (req, res) => {   
-//     //set id based on what the next index of the array will be
-//     req.body.id = notes.length.toString();
-
-//     //add note to json file
-//     const note = createNewNote(req.body, notes);
-
-//     res.json(note);
-
-// });
 
 //set up server
 app.listen(3001, () => {
