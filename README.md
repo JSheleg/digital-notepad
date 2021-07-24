@@ -1,12 +1,12 @@
 # Digital Notepad ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 
-![LandingPage]()
+![LandingPage](https://github.com/JSheleg/digital-notepad/blob/main/public/assets/img/HomePageNotes.JPG)
 
 ## Description: 
 Greeted by a homepage, when button "Get Started" is pushed, the user is presented with a Notes page. The notes page has input spots for Note Title and Note Text. When the save button is clicked, the note will be added to the Saved notes section. Saved notes will be on the left side where you can view them or delete them.
 
-![NoteTakerPage]()
+![NoteTakerPage](https://github.com/JSheleg/digital-notepad/blob/main/public/assets/img/LandingPageNotes.JPG)
 
 ## Table of Contents:
 * [Installation](#installation)
@@ -26,7 +26,7 @@ Greeted by a homepage, when button "Get Started" is pushed, the user is presente
 ## Usage
 Used to keep track of notes, add notes and delete notes.
 
-![NoteTakerWithSampleText]()
+![NoteTakerWithSampleText](https://github.com/JSheleg/digital-notepad/blob/main/public/assets/img/NoteTakerwEx.JPG)
 
 ## License
 This project is licensed under MIT
