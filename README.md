@@ -36,7 +36,7 @@ This project is licensed under MIT
 If you have any questions about this project, please contact me at jessica.sheleg@gmail.com. 
 
 ## Walk Through
-View Walk through video here: [Screencastify]()
+View Walk through video here: [Screencastify](https://drive.google.com/file/d/1nVLX3DfoTPRlD4l6W3M96ibKqrLJBl9M/view)
 
 ## Heroku 
 Hosted on Heroku [Heroku](https://stormy-journey-36440.herokuapp.com/)
